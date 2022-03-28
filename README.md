@@ -1,2 +1,3 @@
-# jupyter-binder
-https://mybinder.org/v2/gh/johanvaneck/jupyter-binder/24d84794fd5530dfe14c78772579eebab60afb30?urlpath=lab%2Ftree%2Fmain.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johanvaneck/jupyter-binder.git/HEAD)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/johanvaneck/jupyter-binder.git/HEAD
